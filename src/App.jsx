@@ -6,7 +6,7 @@ function App() {
   return (
     <div style={{ textAlign: 'center', padding: '2rem' }}>
       <h1>Vondy App Builder</h1>
-      <p>HMR test — last update: 2026-03-12T22:43:14.575Z</p>
+      <p>Edited externally on GitHub!</p>
       <button onClick={() => setCount(c => c + 1)}>
         Count: {count}
       </button>
